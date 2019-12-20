@@ -1,6 +1,12 @@
-#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX频道",DOX院线 http://27.36.62.162:9090/live/DOXyuanxianHD_7000.m3u8 
-#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX频道",DOX雅趣 http://27.36.62.162:9090/live/DOXhanliuHD_7000.m3u8 
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX频道",DOX怡家 http://27.36.62.162:9090/live/DOXyijiaHD_7000.m3u8 
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX频道",DOX英伦 http://27.36.62.162:9090/live/DOXyinglunHD_7000.m3u8 
-#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX频道",DOX剧场 http://27.36.62.162:9090/live/DOXjuchangHD_7000.m3u8 
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX频道",DOX新艺 http://27.36.62.162:9090/live/DOXxinyiHD_7000.m3u8
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX频道",DOX院线 
+http://27.36.62.162:9090/live/DOXyuanxianHD_7000.m3u8 
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX频道",DOX雅趣 
+http://27.36.62.162:9090/live/DOXhanliuHD_7000.m3u8 
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX频道",DOX怡家 
+http://27.36.62.162:9090/live/DOXyijiaHD_7000.m3u8 
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX频道",DOX英伦 
+http://27.36.62.162:9090/live/DOXyinglunHD_7000.m3u8 
+#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX频道",DOX剧场 
+http://27.36.62.162:9090/live/DOXjuchangHD_7000.m3u8 
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX频道",DOX新艺 
+http://27.36.62.162:9090/live/DOXxinyiHD_7000.m3u8
