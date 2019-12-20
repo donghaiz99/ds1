@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX频道",DOX院线 
 http://27.36.62.162:9090/live/DOXyuanxianHD_7000.m3u8 
 #EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX频道",DOX雅趣 
