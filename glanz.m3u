@@ -1,0 +1,1181 @@
+#EXTM3U
+#EXTINF:-1 group-title="groupName=Общие",Первый
+http://cdn.ottg.tv/9195/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9195.png
+#EXTINF:-1 group-title="groupName=Общие",Первый HD
+http://cdn.ottg.tv/2214/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2214.png
+#EXTINF:-1 group-title="groupName=Общие",Первый +6
+http://cdn.ottg.tv/8664/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8664.png
+#EXTINF:-1 group-title="groupName=Общие",Первый +2
+http://cdn.ottg.tv/9429/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9429.png
+#EXTINF:-1 group-title="groupName=Общие",Первый +4
+http://cdn.ottg.tv/9664/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9664.png
+#EXTINF:-1 group-title="groupName=Общие",Первый +8
+http://cdn.ottg.tv/7295/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7295.png
+#EXTINF:-1 group-title="groupName=Общие",Россия 1
+http://cdn.ottg.tv/9226/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9226.png
+#EXTINF:-1 group-title="groupName=Общие",Россия HD
+http://cdn.ottg.tv/5963/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5963.png
+#EXTINF:-1 group-title="groupName=Общие",Россия 1 +2
+http://cdn.ottg.tv/4936/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4936.png
+#EXTINF:-1 group-title="groupName=Общие",Россия 1 +4
+http://cdn.ottg.tv/5445/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5445.png
+#EXTINF:-1 group-title="groupName=Общие",Россия 1 +6
+http://cdn.ottg.tv/5764/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5764.png
+#EXTINF:-1 group-title="groupName=Общие",Россия 1 +8
+http://cdn.ottg.tv/1503/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1503.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ
+http://cdn.ottg.tv/9413/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9413.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ +2
+http://cdn.ottg.tv/8004/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8004.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ HD
+http://cdn.ottg.tv/8711/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8711.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ +4
+http://cdn.ottg.tv/7454/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7454.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ +6
+http://cdn.ottg.tv/5040/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5040.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ +8
+http://cdn.ottg.tv/4239/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4239.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ Мир
+http://cdn.ottg.tv/7870/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7870.png
+#EXTINF:-1 group-title="groupName=Общие",ТВЦ
+http://cdn.ottg.tv/7846/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7846.png
+#EXTINF:-1 group-title="groupName=Общие",ТВЦ +2
+http://cdn.ottg.tv/5366/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5366.png
+#EXTINF:-1 group-title="groupName=Общие",ТВЦ +4
+http://cdn.ottg.tv/8991/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8991.png
+#EXTINF:-1 group-title="groupName=Общие",ТВЦ +6
+http://cdn.ottg.tv/6262/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6262.png
+#EXTINF:-1 group-title="groupName=Общие",Пятый канал
+http://cdn.ottg.tv/4750/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4750.png
+#EXTINF:-1 group-title="groupName=Общие",Пятый канал +2
+http://cdn.ottg.tv/4447/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4447.png
+#EXTINF:-1 group-title="groupName=Общие",Пятый канал +4
+http://cdn.ottg.tv/8598/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8598.png
+#EXTINF:-1 group-title="groupName=Общие",Пятый канал +6
+http://cdn.ottg.tv/5413/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5413.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ
+http://cdn.ottg.tv/2468/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2468.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ HD
+http://cdn.ottg.tv/1337/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1337.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ +2
+http://cdn.ottg.tv/7754/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7754.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ +4
+http://cdn.ottg.tv/8594/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8594.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ +6
+http://cdn.ottg.tv/8960/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8960.png
+#EXTINF:-1 group-title="groupName=Общие",СТС
+http://cdn.ottg.tv/9716/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9716.png
+#EXTINF:-1 group-title="groupName=Общие",СТС +2
+http://cdn.ottg.tv/6885/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6885.png
+#EXTINF:-1 group-title="groupName=Общие",СТС +4
+http://cdn.ottg.tv/8715/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8715.png
+#EXTINF:-1 group-title="groupName=Общие",Рен ТВ +2
+http://cdn.ottg.tv/7175/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7175.png
+#EXTINF:-1 group-title="groupName=Общие",Рен ТВ +6
+http://cdn.ottg.tv/2741/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2741.png
+#EXTINF:-1 group-title="groupName=Общие",Мир ТВ
+http://cdn.ottg.tv/2810/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2810.png
+#EXTINF:-1 group-title="groupName=Общие",Мир Premium HD
+http://cdn.ottg.tv/7640/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7640.png
+#EXTINF:-1 group-title="groupName=Общие",Мир +2
+http://cdn.ottg.tv/9635/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9635.png
+#EXTINF:-1 group-title="groupName=Общие",Мир +6
+http://cdn.ottg.tv/7562/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7562.png
+#EXTINF:-1 group-title="groupName=Общие",ОТР
+http://cdn.ottg.tv/2345/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2345.png
+#EXTINF:-1 group-title="groupName=Общие",Звезда
+http://cdn.ottg.tv/7796/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7796.png
+#EXTINF:-1 group-title="groupName=Общие",Звезда +2
+http://cdn.ottg.tv/8214/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8214.png
+#EXTINF:-1 group-title="groupName=Общие",СТС +6
+http://cdn.ottg.tv/9013/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9013.png
+#EXTINF:-1 group-title="groupName=Общие",СТС Love
+http://cdn.ottg.tv/6621/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6621.png
+#EXTINF:-1 group-title="groupName=Общие",Рен ТВ HD
+http://cdn.ottg.tv/8082/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8082.png
+#EXTINF:-1 group-title="groupName=Общие",Звезда +4
+http://cdn.ottg.tv/1766/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1766.png
+#EXTINF:-1 group-title="groupName=Общие",Звезда +6
+http://cdn.ottg.tv/5202/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5202.png
+#EXTINF:-1 group-title="groupName=Общие",Че
+http://cdn.ottg.tv/8708/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8708.png
+#EXTINF:-1 group-title="groupName=Общие",Че +4
+http://cdn.ottg.tv/2519/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2519.png
+#EXTINF:-1 group-title="groupName=Общие",ТВ3
+http://cdn.ottg.tv/7473/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7473.png
+#EXTINF:-1 group-title="groupName=Общие",ТВ 3 +2
+http://cdn.ottg.tv/1500/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1500.png
+#EXTINF:-1 group-title="groupName=Общие",ТВ3 +4
+http://cdn.ottg.tv/4946/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4946.png
+#EXTINF:-1 group-title="groupName=Общие",ТВ3 +6
+http://cdn.ottg.tv/9894/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9894.png
+#EXTINF:-1 group-title="groupName=Общие",Пятница
+http://cdn.ottg.tv/3755/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3755.png
+#EXTINF:-1 group-title="groupName=Общие",Пятница HD
+http://cdn.ottg.tv/9657/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9657.png
+#EXTINF:-1 group-title="groupName=Общие",Пятница +2
+http://cdn.ottg.tv/9345/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9345.png
+#EXTINF:-1 group-title="groupName=Общие",Пятница +6
+http://cdn.ottg.tv/6808/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6808.png
+#EXTINF:-1 group-title="groupName=Общие",RTVi
+http://cdn.ottg.tv/5498/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5498.png
+#EXTINF:-1 group-title="groupName=Общие",Супер
+http://cdn.ottg.tv/3573/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3573.png
+#EXTINF:-1 group-title="groupName=Общие",Супер +2
+http://cdn.ottg.tv/9051/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9051.png
+#EXTINF:-1 group-title="groupName=Общие",Супер +4
+http://cdn.ottg.tv/1922/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1922.png
+#EXTINF:-1 group-title="groupName=Общие",Супер +6
+http://cdn.ottg.tv/1823/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1823.png
+#EXTINF:-1 group-title="groupName=Общие",Домашний
+http://cdn.ottg.tv/9505/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9505.png
+#EXTINF:-1 group-title="groupName=Общие",Galaxy HD
+http://cdn.ottg.tv/2753/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2753.png
+#EXTINF:-1 group-title="groupName=Общие",Домашний +2
+http://cdn.ottg.tv/6944/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6944.png
+#EXTINF:-1 group-title="groupName=Общие",Домашний +6
+http://cdn.ottg.tv/3760/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3760.png
+#EXTINF:-1 group-title="groupName=Общие",Россия К
+http://cdn.ottg.tv/4539/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4539.png
+#EXTINF:-1 group-title="groupName=Общие",Россия К +2
+http://cdn.ottg.tv/5393/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5393.png
+#EXTINF:-1 group-title="groupName=Общие",Россия К +4
+http://cdn.ottg.tv/4032/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4032.png
+#EXTINF:-1 group-title="groupName=Общие",Россия К +6
+http://cdn.ottg.tv/6780/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6780.png
+#EXTINF:-1 group-title="groupName=Общие",Планета РТР
+http://cdn.ottg.tv/5330/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5330.png
+#EXTINF:-1 group-title="groupName=Общие",8 канал
+http://cdn.ottg.tv/2455/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2455.png
+#EXTINF:-1 group-title="groupName=Общие",Время
+http://cdn.ottg.tv/3482/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3482.png
+#EXTINF:-1 group-title="groupName=Общие",Ностальгия
+http://cdn.ottg.tv/9997/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9997.png
+#EXTINF:-1 group-title="groupName=Общие",Ю
+http://cdn.ottg.tv/4785/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4785.png
+#EXTINF:-1 group-title="groupName=Общие",Ю +2
+http://cdn.ottg.tv/5957/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5957.png
+#EXTINF:-1 group-title="groupName=Общие",Ю +4
+http://cdn.ottg.tv/8076/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8076.png
+#EXTINF:-1 group-title="groupName=Общие",Ю +6
+http://cdn.ottg.tv/3383/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3383.png
+#EXTINF:-1 group-title="groupName=Общие",2х2
+http://cdn.ottg.tv/2935/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2935.png
+#EXTINF:-1 group-title="groupName=Общие",2х2 +2
+http://cdn.ottg.tv/5200/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5200.png
+#EXTINF:-1 group-title="groupName=Общие",2х2 +4
+http://cdn.ottg.tv/8806/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8806.png
+#EXTINF:-1 group-title="groupName=Общие",2x2 +6
+http://cdn.ottg.tv/8548/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8548.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ4
+http://cdn.ottg.tv/4848/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4848.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ4 +2
+http://cdn.ottg.tv/5288/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5288.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ4 +4
+http://cdn.ottg.tv/5156/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5156.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ4 +6
+http://cdn.ottg.tv/9300/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9300.png
+#EXTINF:-1 group-title="groupName=Общие",КВН ТВ
+http://cdn.ottg.tv/7270/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7270.png
+#EXTINF:-1 group-title="groupName=Общие",Сарафан
+http://cdn.ottg.tv/8267/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8267.png
+#EXTINF:-1 group-title="groupName=Общие",Вопросы и ответы
+http://cdn.ottg.tv/8132/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8132.png
+#EXTINF:-1 group-title="groupName=Общие",RTД HD
+http://cdn.ottg.tv/9349/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9349.png
+#EXTINF:-1 group-title="groupName=Общие",E TV
+http://cdn.ottg.tv/7865/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7865.png
+#EXTINF:-1 group-title="groupName=Общие",360 HD
+http://cdn.ottg.tv/4898/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4898.png
+#EXTINF:-1 group-title="groupName=Общие",Спас
+http://cdn.ottg.tv/2291/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2291.png
+#EXTINF:-1 group-title="groupName=Общие",Союз
+http://cdn.ottg.tv/8666/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8666.png
+#EXTINF:-1 group-title="groupName=Общие",Просвещение
+http://cdn.ottg.tv/7504/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7504.png
+#EXTINF:-1 group-title="groupName=Общие",Наше ТВ
+http://cdn.ottg.tv/8739/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8739.png
+#EXTINF:-1 group-title="groupName=Общие",Жар Птица
+http://cdn.ottg.tv/4396/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4396.png
+#EXTINF:-1 group-title="groupName=Общие",Анекдот ТВ
+http://cdn.ottg.tv/8557/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8557.png
+#EXTINF:-1 group-title="groupName=Общие",Бобёр
+http://cdn.ottg.tv/5063/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5063.png
+#EXTINF:-1 group-title="groupName=Общие",Доверие
+http://cdn.ottg.tv/6289/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6289.png
+#EXTINF:-1 group-title="groupName=Общие",Красная линия
+http://cdn.ottg.tv/3638/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3638.png
+#EXTINF:-1 group-title="groupName=Общие",ЛДПР ТВ
+http://cdn.ottg.tv/2211/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2211.png
+#EXTINF:-1 group-title="groupName=Общие",Первый образовательный
+http://cdn.ottg.tv/9677/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9677.png
+#EXTINF:-1 group-title="groupName=Общие",Центральное телевидение
+http://cdn.ottg.tv/9939/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9939.png
+#EXTINF:-1 group-title="groupName=Общие",Эхо-ТВ
+http://cdn.ottg.tv/9320/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9320.png
+#EXTINF:-1 group-title="groupName=Общие",Ювелирочка
+http://cdn.ottg.tv/9886/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9886.png
+#EXTINF:-1 group-title="groupName=Общие",DW-TV
+http://cdn.ottg.tv/7489/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7489.png
+#EXTINF:-1 group-title="groupName=Общие",Fashion TV HD
+http://cdn.ottg.tv/1223/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1223.png
+#EXTINF:-1 group-title="groupName=Общие",Home 4K PREMIUM+
+http://cdn.ottg.tv/7533/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7533.png
+#EXTINF:-1 group-title="groupName=Общие",NHK WORLD-JAPAN
+http://cdn.ottg.tv/4102/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4102.png
+#EXTINF:-1 group-title="groupName=Общие",O2TV HD
+http://cdn.ottg.tv/6802/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6802.png
+#EXTINF:-1 group-title="groupName=Общие",Shop&Show
+http://cdn.ottg.tv/9106/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9106.png
+#EXTINF:-1 group-title="groupName=Общие",Luxury World HD
+http://cdn.ottg.tv/2387/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2387.png
+#EXTINF:-1 group-title="groupName=Общие",Рен ТВ
+http://cdn.ottg.tv/6401/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6401.png
+#EXTINF:-1 group-title="groupName=Общие",Первый HD PREMIUM+
+http://cdn.ottg.tv/2580/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2580.png
+#EXTINF:-1 group-title="groupName=Общие",Россия 1 HD PREMIUM+
+http://cdn.ottg.tv/2151/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2151.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ HD PREMIUM+
+http://cdn.ottg.tv/2017/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2017.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ4 HD
+http://cdn.ottg.tv/2304/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2304.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ Право
+http://cdn.ottg.tv/8025/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8025.png
+#EXTINF:-1 group-title="groupName=Общие",НТВ Стиль
+http://cdn.ottg.tv/6190/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6190.png
+#EXTINF:-1 group-title="groupName=Общие",Совершенно секретно
+http://cdn.ottg.tv/6097/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6097.png
+#EXTINF:-1 group-title="groupName=Общие",Перец International
+http://cdn.ottg.tv/5850/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5850.png
+#EXTINF:-1 group-title="groupName=Общие",Первый канал HD +4
+http://cdn.ottg.tv/2806/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2806.png
+#EXTINF:-1 group-title="groupName=Общие",ТНТ HD PREMIUM+
+http://cdn.ottg.tv/5889/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5889.png
+#EXTINF:-1 group-title="groupName=Общие",ТВ 3 HD
+http://cdn.ottg.tv/1540/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Общие",Супер HD
+http://cdn.ottg.tv/3894/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Украина",1+1
+http://cdn.ottg.tv/7016/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7016.png
+#EXTINF:-1 group-title="groupName=Украина",Украина
+http://cdn.ottg.tv/7003/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7003.png
+#EXTINF:-1 group-title="groupName=Украина",ICTV
+http://cdn.ottg.tv/5886/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5886.png
+#EXTINF:-1 group-title="groupName=Украина",Интер
+http://cdn.ottg.tv/5928/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5928.png
+#EXTINF:-1 group-title="groupName=Украина",СТБ
+http://cdn.ottg.tv/4772/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4772.png
+#EXTINF:-1 group-title="groupName=Украина",2+2
+http://cdn.ottg.tv/7476/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7476.png
+#EXTINF:-1 group-title="groupName=Украина",Новый канал
+http://cdn.ottg.tv/4256/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4256.png
+#EXTINF:-1 group-title="groupName=Украина",К1
+http://cdn.ottg.tv/4625/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4625.png
+#EXTINF:-1 group-title="groupName=Украина",К2
+http://cdn.ottg.tv/4349/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4349.png
+#EXTINF:-1 group-title="groupName=Украина",ТЕТ
+http://cdn.ottg.tv/3700/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3700.png
+#EXTINF:-1 group-title="groupName=Украина",НТН
+http://cdn.ottg.tv/4544/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4544.png
+#EXTINF:-1 group-title="groupName=Украина",112 Украина HD
+http://cdn.ottg.tv/9340/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9340.png
+#EXTINF:-1 group-title="groupName=Украина",Bolt HD
+http://cdn.ottg.tv/8597/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8597.png
+#EXTINF:-1 group-title="groupName=Украина",НЛО ТВ
+http://cdn.ottg.tv/4728/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4728.png
+#EXTINF:-1 group-title="groupName=Украина",Квартал ТВ
+http://cdn.ottg.tv/1142/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1142.png
+#EXTINF:-1 group-title="groupName=Украина",Сварожичи
+http://cdn.ottg.tv/9567/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9567.png
+#EXTINF:-1 group-title="groupName=Украина",5 канал
+http://cdn.ottg.tv/7806/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7806.png
+#EXTINF:-1 group-title="groupName=Украина",112
+http://cdn.ottg.tv/8241/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8241.png
+#EXTINF:-1 group-title="groupName=Украина",34 Канал
+http://cdn.ottg.tv/9439/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9439.png
+#EXTINF:-1 group-title="groupName=Украина",4 канал HD
+http://cdn.ottg.tv/4661/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4661.png
+#EXTINF:-1 group-title="groupName=Украина",Enter Film
+http://cdn.ottg.tv/3420/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3420.png
+#EXTINF:-1 group-title="groupName=Украина",Fauna
+http://cdn.ottg.tv/2317/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2317.png
+#EXTINF:-1 group-title="groupName=Украина",Lale HD
+http://cdn.ottg.tv/6020/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6020.png
+#EXTINF:-1 group-title="groupName=Украина",Lale
+http://cdn.ottg.tv/9805/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9805.png
+#EXTINF:-1 group-title="groupName=Украина",Musicbox UA
+http://cdn.ottg.tv/9482/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9482.png
+#EXTINF:-1 group-title="groupName=Украина",News One HD
+http://cdn.ottg.tv/6294/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6294.png
+#EXTINF:-1 group-title="groupName=Украина",NIKI Junior HD
+http://cdn.ottg.tv/5077/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5077.png
+#EXTINF:-1 group-title="groupName=Украина",NIKI Kids HD
+http://cdn.ottg.tv/8665/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8665.png
+#EXTINF:-1 group-title="groupName=Украина",OBOZ TV HD
+http://cdn.ottg.tv/4917/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4917.png
+#EXTINF:-1 group-title="groupName=Украина",Star Cinema HD UA
+http://cdn.ottg.tv/5109/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5109.png
+#EXTINF:-1 group-title="groupName=Украина",Star Family HD UA
+http://cdn.ottg.tv/8048/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8048.png
+#EXTINF:-1 group-title="groupName=Украина",Перший HD
+http://cdn.ottg.tv/9279/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9279.png
+#EXTINF:-1 group-title="groupName=Украина",Vintage TV
+http://cdn.ottg.tv/9187/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9187.png
+#EXTINF:-1 group-title="groupName=Украина",Xsport HD
+http://cdn.ottg.tv/5019/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5019.png
+#EXTINF:-1 group-title="groupName=Украина",XSPORT
+http://cdn.ottg.tv/1385/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1385.png
+#EXTINF:-1 group-title="groupName=Украина",Zik HD
+http://cdn.ottg.tv/1297/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1297.png
+#EXTINF:-1 group-title="groupName=Украина",Zoom
+http://cdn.ottg.tv/8065/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8065.png
+#EXTINF:-1 group-title="groupName=Украина",АТР
+http://cdn.ottg.tv/8658/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8658.png
+#EXTINF:-1 group-title="groupName=Украина",Бігуді
+http://cdn.ottg.tv/7141/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7141.png
+#EXTINF:-1 group-title="groupName=Украина",Громадьске ТВ
+http://cdn.ottg.tv/4097/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4097.png
+#EXTINF:-1 group-title="groupName=Украина",Дача
+http://cdn.ottg.tv/5030/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5030.png
+#EXTINF:-1 group-title="groupName=Украина",Етно HD
+http://cdn.ottg.tv/7331/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7331.png
+#EXTINF:-1 group-title="groupName=Украина",КРТ
+http://cdn.ottg.tv/2488/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2488.png
+#EXTINF:-1 group-title="groupName=Украина",М2
+http://cdn.ottg.tv/1046/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1046.png
+#EXTINF:-1 group-title="groupName=Украина",Максi ТВ
+http://cdn.ottg.tv/8190/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8190.png
+#EXTINF:-1 group-title="groupName=Украина",Малятко TV
+http://cdn.ottg.tv/5341/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5341.png
+#EXTINF:-1 group-title="groupName=Украина",Мега
+http://cdn.ottg.tv/6269/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6269.png
+#EXTINF:-1 group-title="groupName=Украина",Надия
+http://cdn.ottg.tv/7990/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7990.png
+#EXTINF:-1 group-title="groupName=Украина",Наука
+http://cdn.ottg.tv/1419/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1419.png
+#EXTINF:-1 group-title="groupName=Украина",Наше HD
+http://cdn.ottg.tv/2872/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2872.png
+#EXTINF:-1 group-title="groupName=Украина",Первый Автомобильный
+http://cdn.ottg.tv/7319/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7319.png
+#EXTINF:-1 group-title="groupName=Украина",Перший
+http://cdn.ottg.tv/3990/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3990.png
+#EXTINF:-1 group-title="groupName=Украина",Пиксель
+http://cdn.ottg.tv/5692/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5692.png
+#EXTINF:-1 group-title="groupName=Украина",ПлюсПлюс
+http://cdn.ottg.tv/8454/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8454.png
+#EXTINF:-1 group-title="groupName=Украина",Прямий HD
+http://cdn.ottg.tv/9847/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9847.png
+#EXTINF:-1 group-title="groupName=Украина",Сонце
+http://cdn.ottg.tv/9412/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9412.png
+#EXTINF:-1 group-title="groupName=Украина",Спорт-1
+http://cdn.ottg.tv/1339/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1339.png
+#EXTINF:-1 group-title="groupName=Украина",Спорт-2
+http://cdn.ottg.tv/1427/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1427.png
+#EXTINF:-1 group-title="groupName=Украина",Украина HD
+http://cdn.ottg.tv/5515/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5515.png
+#EXTINF:-1 group-title="groupName=Украина",Тера
+http://cdn.ottg.tv/2370/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2370.png
+#EXTINF:-1 group-title="groupName=Украина",Трофей HD
+http://cdn.ottg.tv/9445/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9445.png
+#EXTINF:-1 group-title="groupName=Украина",Унiан
+http://cdn.ottg.tv/6532/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6532.png
+#EXTINF:-1 group-title="groupName=Украина",ЧП.ТВ
+http://cdn.ottg.tv/5641/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5641.png
+#EXTINF:-1 group-title="groupName=Украина",Черноморская
+http://cdn.ottg.tv/1612/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1612.png
+#EXTINF:-1 group-title="groupName=Украина",Эспресо TV
+http://cdn.ottg.tv/9440/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9440.png
+#EXTINF:-1 group-title="groupName=Украина",Эспресо ТВ HD
+http://cdn.ottg.tv/4231/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4231.png
+#EXTINF:-1 group-title="groupName=Украина",News One UA
+http://cdn.ottg.tv/6656/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6656.png
+#EXTINF:-1 group-title="groupName=Украина",Zik
+http://cdn.ottg.tv/5632/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5632.png
+#EXTINF:-1 group-title="groupName=Украина",1+1 International
+http://cdn.ottg.tv/7224/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7224.png
+#EXTINF:-1 group-title="groupName=Украина",1+1 HD
+http://cdn.ottg.tv/6801/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6801.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Channel 9 IL
+http://cdn.ottg.tv/6998/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6998.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Channel 11 IL
+http://cdn.ottg.tv/8247/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8247.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Channel 12 IL
+http://cdn.ottg.tv/5773/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5773.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Channel 13 IL
+http://cdn.ottg.tv/6635/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6635.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Jurnal TV MD
+http://cdn.ottg.tv/7631/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7631.png
+#EXTINF:-1 group-title="groupName=Зарубежные",ОНТ HD BY
+http://cdn.ottg.tv/9363/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9363.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Беларусь 1 HD BY
+http://cdn.ottg.tv/7574/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7574.png
+#EXTINF:-1 group-title="groupName=Зарубежные",РТР HD BY
+http://cdn.ottg.tv/9136/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9136.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Беларусь 2 HD BY
+http://cdn.ottg.tv/6512/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6512.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Беларусь 3 HD BY
+http://cdn.ottg.tv/8020/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8020.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Казахстан KZ
+http://cdn.ottg.tv/5396/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5396.png
+#EXTINF:-1 group-title="groupName=Зарубежные",КТК
+http://cdn.ottg.tv/7174/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7174.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Астана ТВ
+http://cdn.ottg.tv/7893/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7893.png
+#EXTINF:-1 group-title="groupName=Зарубежные",7 канал (Казахстан)
+http://cdn.ottg.tv/3206/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3206.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Armenia TV
+http://cdn.ottg.tv/8162/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8162.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Armenia HD AM
+http://cdn.ottg.tv/6042/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6042.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Shant HD
+http://cdn.ottg.tv/7658/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7658.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Atv HD AM
+http://cdn.ottg.tv/5659/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5659.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Kentron AM
+http://cdn.ottg.tv/2190/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2190.png
+#EXTINF:-1 group-title="groupName=Зарубежные",LNK LT
+http://cdn.ottg.tv/1753/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1753.png
+#EXTINF:-1 group-title="groupName=Зарубежные",BTV
+http://cdn.ottg.tv/3855/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3855.png
+#EXTINF:-1 group-title="groupName=Зарубежные",TV3 HD LT
+http://cdn.ottg.tv/7524/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7524.png
+#EXTINF:-1 group-title="groupName=Зарубежные",TV3 LV
+http://cdn.ottg.tv/2255/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2255.png
+#EXTINF:-1 group-title="groupName=Зарубежные",LRT
+http://cdn.ottg.tv/3733/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3733.png
+#EXTINF:-1 group-title="groupName=Зарубежные",LTV1
+http://cdn.ottg.tv/1144/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1144.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Хабар
+http://cdn.ottg.tv/7001/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7001.png
+#EXTINF:-1 group-title="groupName=Зарубежные",Беларусь 24
+http://cdn.ottg.tv/5581/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5581.png
+#EXTINF:-1 group-title="groupName=Зарубежные",БелРос
+http://cdn.ottg.tv//video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Зарубежные",8 канал HD
+http://cdn.ottg.tv/8335/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8335.png
+#EXTINF:-1 group-title="groupName=Зарубежные",8 Канал HD BY
+http://cdn.ottg.tv/8447/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8447.png
+#EXTINF:-1 group-title="groupName=Зарубежные",RTR Moldova HD
+http://cdn.ottg.tv/5143/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5143.png
+#EXTINF:-1 group-title="groupName=Познавательные",Discovery Channel HD
+http://cdn.ottg.tv/8979/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8979.png
+#EXTINF:-1 group-title="groupName=Познавательные",Discovery Science HD
+http://cdn.ottg.tv/6482/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6482.png
+#EXTINF:-1 group-title="groupName=Познавательные",Discovery Turbo Xtra HD
+http://cdn.ottg.tv/7612/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7612.png
+#EXTINF:-1 group-title="groupName=Познавательные",History HD
+http://cdn.ottg.tv/2267/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2267.png
+#EXTINF:-1 group-title="groupName=Познавательные",History2 HD
+http://cdn.ottg.tv/1940/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1940.png
+#EXTINF:-1 group-title="groupName=Познавательные",Investigation Discovery CEE HD
+http://cdn.ottg.tv/5885/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5885.png
+#EXTINF:-1 group-title="groupName=Познавательные",TLC HD
+http://cdn.ottg.tv/9012/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9012.png
+#EXTINF:-1 group-title="groupName=Познавательные",Планета HD
+http://cdn.ottg.tv/7223/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7223.png
+#EXTINF:-1 group-title="groupName=Познавательные",Эврика HD
+http://cdn.ottg.tv/3269/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3269.png
+#EXTINF:-1 group-title="groupName=Познавательные",National Geographic HD
+http://cdn.ottg.tv/4998/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4998.png
+#EXTINF:-1 group-title="groupName=Познавательные",Наука 2.0
+http://cdn.ottg.tv/5138/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5138.png
+#EXTINF:-1 group-title="groupName=Познавательные",Нано HD
+http://cdn.ottg.tv/1215/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1215.png
+#EXTINF:-1 group-title="groupName=Познавательные",Galaxy
+http://cdn.ottg.tv/6157/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6157.png
+#EXTINF:-1 group-title="groupName=Познавательные",Техно 24
+http://cdn.ottg.tv/2534/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2534.png
+#EXTINF:-1 group-title="groupName=Познавательные",Оружие
+http://cdn.ottg.tv/6836/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6836.png
+#EXTINF:-1 group-title="groupName=Познавательные",Nat Geo Wild HD
+http://cdn.ottg.tv/7501/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7501.png
+#EXTINF:-1 group-title="groupName=Познавательные",Animal Planet HD
+http://cdn.ottg.tv/3507/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3507.png
+#EXTINF:-1 group-title="groupName=Познавательные",В мире животных HD
+http://cdn.ottg.tv/3907/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3907.png
+#EXTINF:-1 group-title="groupName=Познавательные",Мама
+http://cdn.ottg.tv/3737/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3737.png
+#EXTINF:-1 group-title="groupName=Познавательные",Доктор
+http://cdn.ottg.tv/9022/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9022.png
+#EXTINF:-1 group-title="groupName=Познавательные",Твой Дом HD
+http://cdn.ottg.tv/1715/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1715.png
+#EXTINF:-1 group-title="groupName=Познавательные",Da Vinci
+http://cdn.ottg.tv/9395/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9395.png
+#EXTINF:-1 group-title="groupName=Познавательные",Viasat Explore HD
+http://cdn.ottg.tv/3139/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3139.png
+#EXTINF:-1 group-title="groupName=Познавательные",Viasat Nature/History HD
+http://cdn.ottg.tv/8772/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8772.png
+#EXTINF:-1 group-title="groupName=Познавательные",Viasat History HD
+http://cdn.ottg.tv/4637/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4637.png
+#EXTINF:-1 group-title="groupName=Познавательные",История
+http://cdn.ottg.tv/8719/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8719.png
+#EXTINF:-1 group-title="groupName=Познавательные",365 дней ТВ
+http://cdn.ottg.tv/2331/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2331.png
+#EXTINF:-1 group-title="groupName=Познавательные",Моя Планета
+http://cdn.ottg.tv/5359/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5359.png
+#EXTINF:-1 group-title="groupName=Познавательные",RTG HD
+http://cdn.ottg.tv/1636/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1636.png
+#EXTINF:-1 group-title="groupName=Познавательные",Приключения HD
+http://cdn.ottg.tv/3242/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3242.png
+#EXTINF:-1 group-title="groupName=Познавательные",Travel Channel HD
+http://cdn.ottg.tv/5730/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5730.png
+#EXTINF:-1 group-title="groupName=Познавательные",Travel+Adventure HD
+http://cdn.ottg.tv/4485/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4485.png
+#EXTINF:-1 group-title="groupName=Познавательные",Fine Living HD
+http://cdn.ottg.tv/6252/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6252.png
+#EXTINF:-1 group-title="groupName=Познавательные",Охота и рыбалка
+http://cdn.ottg.tv/4351/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4351.png
+#EXTINF:-1 group-title="groupName=Познавательные",Охотник и рыболов HD
+http://cdn.ottg.tv/5955/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5955.png
+#EXTINF:-1 group-title="groupName=Познавательные",Диалоги о рыбалке HD
+http://cdn.ottg.tv/5891/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5891.png
+#EXTINF:-1 group-title="groupName=Познавательные",Дикая Охота HD
+http://cdn.ottg.tv/9212/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9212.png
+#EXTINF:-1 group-title="groupName=Познавательные",Дикая Рыбалка HD
+http://cdn.ottg.tv/9250/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9250.png
+#EXTINF:-1 group-title="groupName=Познавательные",Outdoor channel
+http://cdn.ottg.tv/1496/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1496.png
+#EXTINF:-1 group-title="groupName=Познавательные",Живая природа HD
+http://cdn.ottg.tv/7063/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7063.png
+#EXTINF:-1 group-title="groupName=Познавательные",Живая планета
+http://cdn.ottg.tv/1313/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1313.png
+#EXTINF:-1 group-title="groupName=Познавательные",Кухня ТВ HD
+http://cdn.ottg.tv/9708/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9708.png
+#EXTINF:-1 group-title="groupName=Познавательные",Еда Премиум HD
+http://cdn.ottg.tv/9940/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9940.png
+#EXTINF:-1 group-title="groupName=Познавательные",Food Network HD
+http://cdn.ottg.tv/4922/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4922.png
+#EXTINF:-1 group-title="groupName=Познавательные",Авто 24
+http://cdn.ottg.tv/8624/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8624.png
+#EXTINF:-1 group-title="groupName=Познавательные",Авто плюс HD
+http://cdn.ottg.tv/2339/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2339.png
+#EXTINF:-1 group-title="groupName=Познавательные",Морской
+http://cdn.ottg.tv/7138/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7138.png
+#EXTINF:-1 group-title="groupName=Познавательные",HDL HD
+http://cdn.ottg.tv/6256/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6256.png
+#EXTINF:-1 group-title="groupName=Познавательные",Усадьба
+http://cdn.ottg.tv/8254/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8254.png
+#EXTINF:-1 group-title="groupName=Познавательные",Театр
+http://cdn.ottg.tv/7310/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7310.png
+#EXTINF:-1 group-title="groupName=Познавательные",Investigation Discovery
+http://cdn.ottg.tv/7060/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7060.png
+#EXTINF:-1 group-title="groupName=Познавательные",Пёс и Ко
+http://cdn.ottg.tv/4479/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4479.png
+#EXTINF:-1 group-title="groupName=Познавательные",Мужской
+http://cdn.ottg.tv/9283/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9283.png
+#EXTINF:-1 group-title="groupName=Познавательные",Museum HD
+http://cdn.ottg.tv/3605/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3605.png
+#EXTINF:-1 group-title="groupName=Познавательные",Viasat Nature HD
+http://cdn.ottg.tv/5532/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5532.png
+#EXTINF:-1 group-title="groupName=Познавательные",Большая Азия HD
+http://cdn.ottg.tv/6657/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6657.png
+#EXTINF:-1 group-title="groupName=Познавательные",Дикий
+http://cdn.ottg.tv/2503/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2503.png
+#EXTINF:-1 group-title="groupName=Познавательные",Еда
+http://cdn.ottg.tv/2048/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2048.png
+#EXTINF:-1 group-title="groupName=Познавательные",Здоровое ТВ
+http://cdn.ottg.tv/7715/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7715.png
+#EXTINF:-1 group-title="groupName=Познавательные",Animal Planet
+http://cdn.ottg.tv/7435/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7435.png
+#EXTINF:-1 group-title="groupName=Познавательные",Discovery Channel
+http://cdn.ottg.tv/3721/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3721.png
+#EXTINF:-1 group-title="groupName=Познавательные",Discovery Science
+http://cdn.ottg.tv/9502/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9502.png
+#EXTINF:-1 group-title="groupName=Познавательные",DTX
+http://cdn.ottg.tv/5508/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5508.png
+#EXTINF:-1 group-title="groupName=Познавательные",Nat Geo Wild
+http://cdn.ottg.tv/9038/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9038.png
+#EXTINF:-1 group-title="groupName=Познавательные",National Geographic
+http://cdn.ottg.tv/5938/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5938.png
+#EXTINF:-1 group-title="groupName=Познавательные",TLC
+http://cdn.ottg.tv/9427/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9427.png
+#EXTINF:-1 group-title="groupName=Познавательные",Discovery Showcase HD
+http://cdn.ottg.tv/3258/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3258.png
+#EXTINF:-1 group-title="groupName=Познавательные",Nat Geo Wild HD PREMIUM+
+http://cdn.ottg.tv/6822/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6822.png
+#EXTINF:-1 group-title="groupName=Познавательные",National Geographic HD PREMIUM+
+http://cdn.ottg.tv/3999/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3999.png
+#EXTINF:-1 group-title="groupName=Познавательные",Discovery Channel HD PREMIUM+
+http://cdn.ottg.tv/3186/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3186.png
+#EXTINF:-1 group-title="groupName=Познавательные",Animal Planet HD PREMIUM+
+http://cdn.ottg.tv/5474/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5474.png
+#EXTINF:-1 group-title="groupName=Познавательные",HD Life PREMIUM+
+http://cdn.ottg.tv/5446/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5446.png
+#EXTINF:-1 group-title="groupName=Познавательные",Discovery Showcase HD PREMIUM+
+http://cdn.ottg.tv/3628/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3628.png
+#EXTINF:-1 group-title="groupName=Познавательные",CBS Reality
+http://cdn.ottg.tv/4399/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4399.png
+#EXTINF:-1 group-title="groupName=Познавательные",Кто есть кто
+http://cdn.ottg.tv/7182/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7182.png
+#EXTINF:-1 group-title="groupName=Познавательные",Загородный
+http://cdn.ottg.tv/5180/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5180.png
+#EXTINF:-1 group-title="groupName=Познавательные",Загородная жизнь
+http://cdn.ottg.tv/3366/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3366.png
+#EXTINF:-1 group-title="groupName=Познавательные",Travel Channel
+http://cdn.ottg.tv/9704/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9704.png
+#EXTINF:-1 group-title="groupName=Познавательные",Психология 21
+http://cdn.ottg.tv/8819/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8819.png
+#EXTINF:-1 group-title="groupName=Познавательные",Домашние животные
+http://cdn.ottg.tv/3646/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3646.png
+#EXTINF:-1 group-title="groupName=Познавательные",Зоопарк
+http://cdn.ottg.tv/6767/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6767.png
+#EXTINF:-1 group-title="groupName=Познавательные",Успех
+http://cdn.ottg.tv/7840/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7840.png
+#EXTINF:-1 group-title="groupName=Познавательные",RTG TV
+http://cdn.ottg.tv/6063/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6063.png
+#EXTINF:-1 group-title="groupName=Познавательные",Телекафе
+http://cdn.ottg.tv/3719/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3719.png
+#EXTINF:-1 group-title="groupName=Познавательные",History
+http://cdn.ottg.tv/1410/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1410.png
+#EXTINF:-1 group-title="groupName=Познавательные",Глазами туриста HD
+http://cdn.ottg.tv/7083/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7083.png
+#EXTINF:-1 group-title="groupName=Познавательные",Discovery World
+http://cdn.ottg.tv/8568/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8568.png
+#EXTINF:-1 group-title="groupName=Познавательные",English Club
+http://cdn.ottg.tv/7783/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7783.png
+#EXTINF:-1 group-title="groupName=Познавательные",Investigation Discovery HD
+http://cdn.ottg.tv/5630/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5630.png
+#EXTINF:-1 group-title="groupName=Кино",Кинопремьера HD
+http://cdn.ottg.tv/7998/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7998.png
+#EXTINF:-1 group-title="groupName=Кино",Остросюжетное HD
+http://cdn.ottg.tv/6659/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6659.png
+#EXTINF:-1 group-title="groupName=Кино",Премиальное HD
+http://cdn.ottg.tv/4505/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4505.png
+#EXTINF:-1 group-title="groupName=Кино",Наше крутое HD
+http://cdn.ottg.tv/6359/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6359.png
+#EXTINF:-1 group-title="groupName=Кино",Наш Кинороман HD
+http://cdn.ottg.tv/4416/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4416.png
+#EXTINF:-1 group-title="groupName=Кино",Кинокомедия HD
+http://cdn.ottg.tv/1119/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1119.png
+#EXTINF:-1 group-title="groupName=Кино",Киносемья
+http://cdn.ottg.tv/9448/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9448.png
+#EXTINF:-1 group-title="groupName=Кино",Киносвидание
+http://cdn.ottg.tv/5897/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5897.png
+#EXTINF:-1 group-title="groupName=Кино",Кинохит
+http://cdn.ottg.tv/3955/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3955.png
+#EXTINF:-1 group-title="groupName=Кино",Киномикс
+http://cdn.ottg.tv/2446/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2446.png
+#EXTINF:-1 group-title="groupName=Кино",Наше новое кино HD
+http://cdn.ottg.tv/3259/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3259.png
+#EXTINF:-1 group-title="groupName=Кино",Родное кино
+http://cdn.ottg.tv/7965/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7965.png
+#EXTINF:-1 group-title="groupName=Кино",Индийское кино
+http://cdn.ottg.tv/6200/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6200.png
+#EXTINF:-1 group-title="groupName=Кино",TV 1000 HD
+http://cdn.ottg.tv/1411/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1411.png
+#EXTINF:-1 group-title="groupName=Кино",TV 1000 Action HD
+http://cdn.ottg.tv/9080/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9080.png
+#EXTINF:-1 group-title="groupName=Кино",TV 1000 Русское кино HD
+http://cdn.ottg.tv/1502/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1502.png
+#EXTINF:-1 group-title="groupName=Кино",ViP Premiere HD
+http://cdn.ottg.tv/8785/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8785.png
+#EXTINF:-1 group-title="groupName=Кино",ViP Megahit HD
+http://cdn.ottg.tv/8448/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8448.png
+#EXTINF:-1 group-title="groupName=Кино",ViP Comedy HD
+http://cdn.ottg.tv/2903/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2903.png
+#EXTINF:-1 group-title="groupName=Кино",ViP Serial HD
+http://cdn.ottg.tv/1514/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1514.png
+#EXTINF:-1 group-title="groupName=Кино",Шокирующее HD
+http://cdn.ottg.tv/7023/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7023.png
+#EXTINF:-1 group-title="groupName=Кино",Комедийное HD
+http://cdn.ottg.tv/4010/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4010.png
+#EXTINF:-1 group-title="groupName=Кино",Amedia Premium HD
+http://cdn.ottg.tv/3610/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3610.png
+#EXTINF:-1 group-title="groupName=Кино",Amedia 1 HD
+http://cdn.ottg.tv/7386/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7386.png
+#EXTINF:-1 group-title="groupName=Кино",Amedia Hit HD
+http://cdn.ottg.tv/4546/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4546.png
+#EXTINF:-1 group-title="groupName=Кино",Русский роман HD
+http://cdn.ottg.tv/3574/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3574.png
+#EXTINF:-1 group-title="groupName=Кино",Русский иллюзион HD
+http://cdn.ottg.tv/9282/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9282.png
+#EXTINF:-1 group-title="groupName=Кино",Русский детектив
+http://cdn.ottg.tv/6590/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6590.png
+#EXTINF:-1 group-title="groupName=Кино",Русский бестселлер
+http://cdn.ottg.tv/7525/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7525.png
+#EXTINF:-1 group-title="groupName=Кино",Русская комедия
+http://cdn.ottg.tv/4167/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4167.png
+#EXTINF:-1 group-title="groupName=Кино",Победа HD
+http://cdn.ottg.tv/2988/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2988.png
+#EXTINF:-1 group-title="groupName=Кино",Fox HD
+http://cdn.ottg.tv/9764/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9764.png
+#EXTINF:-1 group-title="groupName=Кино",Fox Life HD
+http://cdn.ottg.tv/3108/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3108.png
+#EXTINF:-1 group-title="groupName=Кино",Sony Channel HD
+http://cdn.ottg.tv/4830/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4830.png
+#EXTINF:-1 group-title="groupName=Кино",Sony Sci-Fi
+http://cdn.ottg.tv/5009/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5009.png
+#EXTINF:-1 group-title="groupName=Кино",Sony Turbo
+http://cdn.ottg.tv/1490/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1490.png
+#EXTINF:-1 group-title="groupName=Кино",КиноТВ HD
+http://cdn.ottg.tv/5930/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5930.png
+#EXTINF:-1 group-title="groupName=Кино",Кинопоказ
+http://cdn.ottg.tv/9591/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9591.png
+#EXTINF:-1 group-title="groupName=Кино",Синема
+http://cdn.ottg.tv/5974/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5974.png
+#EXTINF:-1 group-title="groupName=Кино",НСТ
+http://cdn.ottg.tv/9044/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9044.png
+#EXTINF:-1 group-title="groupName=Кино",Страшное HD
+http://cdn.ottg.tv/1961/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1961.png
+#EXTINF:-1 group-title="groupName=Кино",TV XXI Век
+http://cdn.ottg.tv/3043/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3043.png
+#EXTINF:-1 group-title="groupName=Кино",Paramount Channel HD
+http://cdn.ottg.tv/9462/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9462.png
+#EXTINF:-1 group-title="groupName=Кино",Paramount Comedy HD
+http://cdn.ottg.tv/4957/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4957.png
+#EXTINF:-1 group-title="groupName=Кино",Мужское кино
+http://cdn.ottg.tv/5595/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5595.png
+#EXTINF:-1 group-title="groupName=Кино",Дом Кино
+http://cdn.ottg.tv/2851/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2851.png
+#EXTINF:-1 group-title="groupName=Кино",Дом кино Премиум HD
+http://cdn.ottg.tv/6799/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6799.png
+#EXTINF:-1 group-title="groupName=Кино",Hollywood HD
+http://cdn.ottg.tv/1996/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1996.png
+#EXTINF:-1 group-title="groupName=Кино",FAN HD
+http://cdn.ottg.tv/2006/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2006.png
+#EXTINF:-1 group-title="groupName=Кино",Феникс+ Кино
+http://cdn.ottg.tv/6923/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6923.png
+#EXTINF:-1 group-title="groupName=Кино",Ретро
+http://cdn.ottg.tv/4309/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4309.png
+#EXTINF:-1 group-title="groupName=Кино",Кино UHD 4k PREMIUM+
+http://cdn.ottg.tv/5408/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5408.png
+#EXTINF:-1 group-title="groupName=Кино",Amedia 2 HD
+http://cdn.ottg.tv/7515/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7515.png
+#EXTINF:-1 group-title="groupName=Кино",О!Кино
+http://cdn.ottg.tv/4140/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4140.png
+#EXTINF:-1 group-title="groupName=Кино",Любимое кино
+http://cdn.ottg.tv/8314/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8314.png
+#EXTINF:-1 group-title="groupName=Кино",Bollywood HD
+http://cdn.ottg.tv/7148/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7148.png
+#EXTINF:-1 group-title="groupName=Кино",Дорама HD
+http://cdn.ottg.tv/2233/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2233.png
+#EXTINF:-1 group-title="groupName=Кино",Еврокино HD
+http://cdn.ottg.tv/5240/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5240.png
+#EXTINF:-1 group-title="groupName=Кино",Иллюзион+ HD
+http://cdn.ottg.tv/9804/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9804.png
+#EXTINF:-1 group-title="groupName=Кино",Тайна
+http://cdn.ottg.tv/2207/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2207.png
+#EXTINF:-1 group-title="groupName=Кино",Amedia Premium
+http://cdn.ottg.tv/7564/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7564.png
+#EXTINF:-1 group-title="groupName=Кино",Paramount Channel
+http://cdn.ottg.tv/6956/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6956.png
+#EXTINF:-1 group-title="groupName=Кино",Shot TV
+http://cdn.ottg.tv/2829/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2829.png
+#EXTINF:-1 group-title="groupName=Кино",Spike
+http://cdn.ottg.tv/5914/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5914.png
+#EXTINF:-1 group-title="groupName=Кино",Star Cinema HD
+http://cdn.ottg.tv/8803/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5109.png
+#EXTINF:-1 group-title="groupName=Кино",Ultra HD Cinema
+http://cdn.ottg.tv/6870/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6870.png
+#EXTINF:-1 group-title="groupName=Кино",Zee TV
+http://cdn.ottg.tv/7669/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7669.png
+#EXTINF:-1 group-title="groupName=Кино",Романтичное HD
+http://cdn.ottg.tv/7262/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7262.png
+#EXTINF:-1 group-title="groupName=Кино",Любимое HD
+http://cdn.ottg.tv/8420/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8420.png
+#EXTINF:-1 group-title="groupName=Кино",НТВ Хит
+http://cdn.ottg.tv/1445/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1445.png
+#EXTINF:-1 group-title="groupName=Кино",Star Family HD
+http://cdn.ottg.tv/6198/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8048.png
+#EXTINF:-1 group-title="groupName=Кино",Болт HD Россия
+http://cdn.ottg.tv/1382/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1382.png
+#EXTINF:-1 group-title="groupName=Кино",Киносат
+http://cdn.ottg.tv/6899/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6899.png
+#EXTINF:-1 group-title="groupName=Кино",НТВ Сериал
+http://cdn.ottg.tv/3213/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3213.png
+#EXTINF:-1 group-title="groupName=Кино",TV 1000 Premium HD
+http://cdn.ottg.tv/3127/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3127.png
+#EXTINF:-1 group-title="groupName=Кино",Киносерия
+http://cdn.ottg.tv/9769/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9769.png
+#EXTINF:-1 group-title="groupName=Кино",AMC
+http://cdn.ottg.tv/7676/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7676.png
+#EXTINF:-1 group-title="groupName=Кино",Paramount Comedy
+http://cdn.ottg.tv/8952/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8952.png
+#EXTINF:-1 group-title="groupName=Кино",TV 1000
+http://cdn.ottg.tv/9948/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9948.png
+#EXTINF:-1 group-title="groupName=Кино",Hollywood
+http://cdn.ottg.tv/2884/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2884.png
+#EXTINF:-1 group-title="groupName=Кино",Sony
+http://cdn.ottg.tv/9605/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9605.png
+#EXTINF:-1 group-title="groupName=Кино",Fox
+http://cdn.ottg.tv/2166/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2166.png
+#EXTINF:-1 group-title="groupName=Кино",Fox Life
+http://cdn.ottg.tv/7353/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7353.png
+#EXTINF:-1 group-title="groupName=Кино",Победа
+http://cdn.ottg.tv/8934/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8934.png
+#EXTINF:-1 group-title="groupName=Кино",Мир сериала
+http://cdn.ottg.tv/9667/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9667.png
+#EXTINF:-1 group-title="groupName=Кино",ViP Premiere HD PREMIUM+
+http://cdn.ottg.tv/2110/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2110.png
+#EXTINF:-1 group-title="groupName=Кино",ViP Megahit HD PREMIUM+
+http://cdn.ottg.tv/7787/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7787.png
+#EXTINF:-1 group-title="groupName=Кино",ViP Comedy HD PREMIUM+
+http://cdn.ottg.tv/9807/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9807.png
+#EXTINF:-1 group-title="groupName=Кино",Мужское Кино HD
+http://cdn.ottg.tv/6241/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6241.png
+#EXTINF:-1 group-title="groupName=Кино",Кинопремьера HD PREMIUM+
+http://cdn.ottg.tv/2095/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Кино",Кино ТВ HD PREMIUM+
+http://cdn.ottg.tv/2733/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Игра HD
+http://cdn.ottg.tv/4780/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4780.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Страна
+http://cdn.ottg.tv/7937/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7937.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Арена HD
+http://cdn.ottg.tv/3226/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3226.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! HD
+http://cdn.ottg.tv/5292/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5292.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч +2
+http://cdn.ottg.tv/4866/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4866.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Футбол 1 HD
+http://cdn.ottg.tv/2321/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2321.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Футбол 2 HD
+http://cdn.ottg.tv/6026/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6026.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Футбол 3 HD
+http://cdn.ottg.tv/6866/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6866.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Премьер HD
+http://cdn.ottg.tv/7517/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7517.png
+#EXTINF:-1 group-title="groupName=Спорт",Футбол 1 HD Украина
+http://cdn.ottg.tv/8521/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8521.png
+#EXTINF:-1 group-title="groupName=Спорт",Футбол 2 HD Украина
+http://cdn.ottg.tv/2070/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2070.png
+#EXTINF:-1 group-title="groupName=Спорт",Eurosport 1 HD
+http://cdn.ottg.tv/1515/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1515.png
+#EXTINF:-1 group-title="groupName=Спорт",Eurosport 2 HD
+http://cdn.ottg.tv/1525/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1525.png
+#EXTINF:-1 group-title="groupName=Спорт",Eurosport Gold HD
+http://cdn.ottg.tv/8749/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8749.png
+#EXTINF:-1 group-title="groupName=Спорт",Беларусь 5 HD
+http://cdn.ottg.tv/5813/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5813.png
+#EXTINF:-1 group-title="groupName=Спорт",Kazsport
+http://cdn.ottg.tv/9686/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9686.png
+#EXTINF:-1 group-title="groupName=Спорт",Viasat Sport HD
+http://cdn.ottg.tv/1072/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1072.png
+#EXTINF:-1 group-title="groupName=Спорт",Extreme Sports
+http://cdn.ottg.tv/1285/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1285.png
+#EXTINF:-1 group-title="groupName=Спорт",Setanta Sports HD
+http://cdn.ottg.tv/4652/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4652.png
+#EXTINF:-1 group-title="groupName=Спорт",Setanta Sports+ HD
+http://cdn.ottg.tv/1931/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1931.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Боец
+http://cdn.ottg.tv/1403/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1403.png
+#EXTINF:-1 group-title="groupName=Спорт",Бокс ТВ
+http://cdn.ottg.tv/9550/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9550.png
+#EXTINF:-1 group-title="groupName=Спорт",UFC ТВ HD
+http://cdn.ottg.tv/9546/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9546.png
+#EXTINF:-1 group-title="groupName=Спорт",КХЛ ТВ
+http://cdn.ottg.tv/2957/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2957.png
+#EXTINF:-1 group-title="groupName=Спорт",КХЛ HD
+http://cdn.ottg.tv/6328/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6328.png
+#EXTINF:-1 group-title="groupName=Спорт",Русский экстрим HD
+http://cdn.ottg.tv/8809/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8809.png
+#EXTINF:-1 group-title="groupName=Спорт",FUEL TV HD
+http://cdn.ottg.tv/5679/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5679.png
+#EXTINF:-1 group-title="groupName=Спорт",Футбол HD
+http://cdn.ottg.tv/2647/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2647.png
+#EXTINF:-1 group-title="groupName=Спорт",Точка отрыва HD
+http://cdn.ottg.tv/2746/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2746.png
+#EXTINF:-1 group-title="groupName=Спорт",Точка ТВ
+http://cdn.ottg.tv/4361/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4361.png
+#EXTINF:-1 group-title="groupName=Спорт",Insight UHD 4k PREMIUM+
+http://cdn.ottg.tv/7004/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7004.png
+#EXTINF:-1 group-title="groupName=Спорт",Eurosport 4k PREMIUM+
+http://cdn.ottg.tv/9006/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9006.png
+#EXTINF:-1 group-title="groupName=Спорт",Моторспорт ТВ HD
+http://cdn.ottg.tv/2697/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2697.png
+#EXTINF:-1 group-title="groupName=Спорт",M-1 Global
+http://cdn.ottg.tv/8036/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8036.png
+#EXTINF:-1 group-title="groupName=Спорт",Футбол 1 HD UA PREMIUM+
+http://cdn.ottg.tv/2284/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2284.png
+#EXTINF:-1 group-title="groupName=Спорт",Футбол 2 HD UA PREMIUM+
+http://cdn.ottg.tv/7054/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7054.png
+#EXTINF:-1 group-title="groupName=Спорт",Живи!
+http://cdn.ottg.tv/9643/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9643.png
+#EXTINF:-1 group-title="groupName=Спорт",Setanta Sports UA HD
+http://cdn.ottg.tv/7662/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7662.png
+#EXTINF:-1 group-title="groupName=Спорт",Драйв
+http://cdn.ottg.tv/5603/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5603.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! ТВ
+http://cdn.ottg.tv/2575/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2575.png
+#EXTINF:-1 group-title="groupName=Спорт",Eurosport 1
+http://cdn.ottg.tv/6623/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6623.png
+#EXTINF:-1 group-title="groupName=Спорт",Russian Extreme Ultra
+http://cdn.ottg.tv/3146/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3146.png
+#EXTINF:-1 group-title="groupName=Спорт",Viasat Sport
+http://cdn.ottg.tv/2839/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2839.png
+#EXTINF:-1 group-title="groupName=Спорт",Конный мир HD
+http://cdn.ottg.tv/8609/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8609.png
+#EXTINF:-1 group-title="groupName=Спорт",Мир баскетбола
+http://cdn.ottg.tv/3271/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3271.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Футбол 1 HD PREMIUM+
+http://cdn.ottg.tv/2065/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2065.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Футбол 2 HD PREMIUM+
+http://cdn.ottg.tv/4286/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4286.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Футбол 3 HD PREMIUM+
+http://cdn.ottg.tv/2773/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2773.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Игра HD PREMIUM+
+http://cdn.ottg.tv/3570/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3570.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Арена HD PREMIUM+
+http://cdn.ottg.tv/9517/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9517.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Планета
+http://cdn.ottg.tv/2616/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2616.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! HD PREMIUM+
+http://cdn.ottg.tv/7962/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7962.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Премьер HD PREMIUM+
+http://cdn.ottg.tv/3678/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3678.png
+#EXTINF:-1 group-title="groupName=Спорт",КХЛ HD PREMIUM+
+http://cdn.ottg.tv/3069/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3069.png
+#EXTINF:-1 group-title="groupName=Спорт",Eurosport 1 HD PREMIUM+
+http://cdn.ottg.tv/8413/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8413.png
+#EXTINF:-1 group-title="groupName=Спорт",Eurosport 2 HD PREMIUM+
+http://cdn.ottg.tv/9523/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9523.png
+#EXTINF:-1 group-title="groupName=Спорт",Viasat Sport HD PREMIUM+
+http://cdn.ottg.tv/2453/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2453.png
+#EXTINF:-1 group-title="groupName=Спорт",Eurosport 2
+http://cdn.ottg.tv/6904/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6904.png
+#EXTINF:-1 group-title="groupName=Спорт",Super Tennis HD
+http://cdn.ottg.tv/6107/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6107.png
+#EXTINF:-1 group-title="groupName=Спорт",TVPlay Sports HD
+http://cdn.ottg.tv/7729/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7729.png
+#EXTINF:-1 group-title="groupName=Спорт",TVPlay Sports + HD
+http://cdn.ottg.tv/4490/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4490.png
+#EXTINF:-1 group-title="groupName=Спорт",Футбол
+http://cdn.ottg.tv/7976/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7976.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Игра
+http://cdn.ottg.tv/1182/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1182.png
+#EXTINF:-1 group-title="groupName=Спорт",Fightbox
+http://cdn.ottg.tv/3336/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3336.png
+#EXTINF:-1 group-title="groupName=Спорт",Футбол 1 Украина
+http://cdn.ottg.tv/7439/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7439.png
+#EXTINF:-1 group-title="groupName=Спорт",Футбол 2 Украина
+http://cdn.ottg.tv/7486/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7486.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Футбол 1
+http://cdn.ottg.tv/7721/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7721.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Футбол 2
+http://cdn.ottg.tv/9099/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9099.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Футбол 3
+http://cdn.ottg.tv/7197/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7197.png
+#EXTINF:-1 group-title="groupName=Спорт",Матч! Премьер
+http://cdn.ottg.tv/3863/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3863.png
+#EXTINF:-1 group-title="groupName=Спорт",Fast&Fun Box
+http://cdn.ottg.tv/9879/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9879.png
+#EXTINF:-1 group-title="groupName=Спорт",Setanta Sports HD (test)
+http://cdn.ottg.tv/2290/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Детские",Детский HD
+http://cdn.ottg.tv/5438/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5438.png
+#EXTINF:-1 group-title="groupName=Детские",Nickelodeon HD
+http://cdn.ottg.tv/3240/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3240.png
+#EXTINF:-1 group-title="groupName=Детские",Тлум HD
+http://cdn.ottg.tv/7952/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7952.png
+#EXTINF:-1 group-title="groupName=Детские",Канал Disney
+http://cdn.ottg.tv/7528/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7528.png
+#EXTINF:-1 group-title="groupName=Детские",Канал Disney +6
+http://cdn.ottg.tv/3552/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3552.png
+#EXTINF:-1 group-title="groupName=Детские",Карусель
+http://cdn.ottg.tv/7419/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7419.png
+#EXTINF:-1 group-title="groupName=Детские",Карусель +2
+http://cdn.ottg.tv/5013/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5013.png
+#EXTINF:-1 group-title="groupName=Детские",Карусель +4
+http://cdn.ottg.tv/9641/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9641.png
+#EXTINF:-1 group-title="groupName=Детские",Карусель +6
+http://cdn.ottg.tv/4123/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4123.png
+#EXTINF:-1 group-title="groupName=Детские",СТС Kids HD
+http://cdn.ottg.tv/9954/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9954.png
+#EXTINF:-1 group-title="groupName=Детские",TiJi
+http://cdn.ottg.tv/7521/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7521.png
+#EXTINF:-1 group-title="groupName=Детские",Мульт
+http://cdn.ottg.tv/9985/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9985.png
+#EXTINF:-1 group-title="groupName=Детские",Мультимузыка
+http://cdn.ottg.tv/5321/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5321.png
+#EXTINF:-1 group-title="groupName=Детские",JimJam
+http://cdn.ottg.tv/9763/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9763.png
+#EXTINF:-1 group-title="groupName=Детские",Cartoon Network HD
+http://cdn.ottg.tv/5635/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5635.png
+#EXTINF:-1 group-title="groupName=Детские",Nick Jr
+http://cdn.ottg.tv/3727/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3727.png
+#EXTINF:-1 group-title="groupName=Детские",В гостях у сказки
+http://cdn.ottg.tv/9375/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9375.png
+#EXTINF:-1 group-title="groupName=Детские",Канал О!
+http://cdn.ottg.tv/4299/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4299.png
+#EXTINF:-1 group-title="groupName=Детские",Boomerang
+http://cdn.ottg.tv/2275/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2275.png
+#EXTINF:-1 group-title="groupName=Детские",Радость Моя
+http://cdn.ottg.tv/5876/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5876.png
+#EXTINF:-1 group-title="groupName=Детские",Ani
+http://cdn.ottg.tv/9170/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9170.png
+#EXTINF:-1 group-title="groupName=Детские",Детский мир
+http://cdn.ottg.tv/9295/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9295.png
+#EXTINF:-1 group-title="groupName=Детские",Gulli
+http://cdn.ottg.tv/3723/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3723.png
+#EXTINF:-1 group-title="groupName=Детские",Baby TV
+http://cdn.ottg.tv/7114/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7114.png
+#EXTINF:-1 group-title="groupName=Детские",Nickelodeon
+http://cdn.ottg.tv/2466/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2466.png
+#EXTINF:-1 group-title="groupName=Детские",Мультик HD
+http://cdn.ottg.tv/2273/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2273.png
+#EXTINF:-1 group-title="groupName=Детские",Малыш
+http://cdn.ottg.tv/4852/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4852.png
+#EXTINF:-1 group-title="groupName=Детские",Рыжий
+http://cdn.ottg.tv/5672/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5672.png
+#EXTINF:-1 group-title="groupName=Детские",Cartoon Network
+http://cdn.ottg.tv/9603/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9603.png
+#EXTINF:-1 group-title="groupName=Детские",Мультиландия
+http://cdn.ottg.tv/2229/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2229.png
+#EXTINF:-1 group-title="groupName=Детские",Капитан Фантастика HD
+http://cdn.ottg.tv/9549/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9549.png
+#EXTINF:-1 group-title="groupName=Детские",KidZone+ HD PREMIUM+
+http://cdn.ottg.tv/9521/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Музыкальные",1HD Music
+http://cdn.ottg.tv/3533/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3533.png
+#EXTINF:-1 group-title="groupName=Музыкальные",М1
+http://cdn.ottg.tv/7349/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7349.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Муз ТВ
+http://cdn.ottg.tv/1806/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1806.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Bridge TV
+http://cdn.ottg.tv/1774/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1774.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Bridge HD
+http://cdn.ottg.tv/3413/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3413.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Bridge TV Classic
+http://cdn.ottg.tv/9334/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9334.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Bridge TV Hits
+http://cdn.ottg.tv/3704/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3704.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Bridge TV Русский хит
+http://cdn.ottg.tv/5747/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5747.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Europa Plus TV
+http://cdn.ottg.tv/9995/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9995.png
+#EXTINF:-1 group-title="groupName=Музыкальные",RU TV
+http://cdn.ottg.tv/5778/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5778.png
+#EXTINF:-1 group-title="groupName=Музыкальные",MTV HD
+http://cdn.ottg.tv/9621/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9621.png
+#EXTINF:-1 group-title="groupName=Музыкальные",MTV Dance
+http://cdn.ottg.tv/9197/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9197.png
+#EXTINF:-1 group-title="groupName=Музыкальные",MTV Rocks
+http://cdn.ottg.tv/2922/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2922.png
+#EXTINF:-1 group-title="groupName=Музыкальные",VH1 Classic
+http://cdn.ottg.tv/1635/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1635.png
+#EXTINF:-1 group-title="groupName=Музыкальные",VH1 European
+http://cdn.ottg.tv/8870/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8870.png
+#EXTINF:-1 group-title="groupName=Музыкальные",MCM TOP
+http://cdn.ottg.tv/1148/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1148.png
+#EXTINF:-1 group-title="groupName=Музыкальные",ТНТ Music
+http://cdn.ottg.tv/4885/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4885.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Mezzo Live HD
+http://cdn.ottg.tv/3203/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3203.png
+#EXTINF:-1 group-title="groupName=Музыкальные",iConcerts HD
+http://cdn.ottg.tv/4880/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4880.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Шансон TB
+http://cdn.ottg.tv/5260/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5260.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Ля-минор
+http://cdn.ottg.tv/9843/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9843.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Жара HD
+http://cdn.ottg.tv/4248/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4248.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Clubbing TV HD
+http://cdn.ottg.tv/7053/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7053.png
+#EXTINF:-1 group-title="groupName=Музыкальные",MTV Hits
+http://cdn.ottg.tv/5568/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5568.png
+#EXTINF:-1 group-title="groupName=Музыкальные",MTV Live HD
+http://cdn.ottg.tv/8299/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8299.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Russian MusicBox
+http://cdn.ottg.tv/8131/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8131.png
+#EXTINF:-1 group-title="groupName=Музыкальные",OTV
+http://cdn.ottg.tv/4787/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4787.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Музыка первого
+http://cdn.ottg.tv/8805/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8805.png
+#EXTINF:-1 group-title="groupName=Музыкальные",Открытый HD
+http://cdn.ottg.tv/1487/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1487.png
+#EXTINF:-1 group-title="groupName=Музыкальные",4 Ever music HD
+http://cdn.ottg.tv/9047/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9047.png
+#EXTINF:-1 group-title="groupName=Новостные",РБК ТВ
+http://cdn.ottg.tv/4428/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4428.png
+#EXTINF:-1 group-title="groupName=Новостные",Россия 24
+http://cdn.ottg.tv/7146/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7146.png
+#EXTINF:-1 group-title="groupName=Новостные",EuroNews
+http://cdn.ottg.tv/3882/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3882.png
+#EXTINF:-1 group-title="groupName=Новостные",BBC World News Europe
+http://cdn.ottg.tv/4330/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4330.png
+#EXTINF:-1 group-title="groupName=Новостные",CNN
+http://cdn.ottg.tv/1797/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1797.png
+#EXTINF:-1 group-title="groupName=Новостные",Москва 24
+http://cdn.ottg.tv/7554/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7554.png
+#EXTINF:-1 group-title="groupName=Новостные",Известия
+http://cdn.ottg.tv/1751/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1751.png
+#EXTINF:-1 group-title="groupName=Новостные",Мир 24
+http://cdn.ottg.tv/1306/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1306.png
+#EXTINF:-1 group-title="groupName=Новостные",Russia Today HD
+http://cdn.ottg.tv/6969/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6969.png
+#EXTINF:-1 group-title="groupName=Новостные",Дождь HD
+http://cdn.ottg.tv/7702/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7702.png
+#EXTINF:-1 group-title="groupName=Новостные",Настоящее время HD
+http://cdn.ottg.tv/2782/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/2782.png
+#EXTINF:-1 group-title="groupName=Новостные",360 Новости
+http://cdn.ottg.tv/3082/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3082.png
+#EXTINF:-1 group-title="groupName=Новостные",France 24 HD
+http://cdn.ottg.tv/9153/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9153.png
+#EXTINF:-1 group-title="groupName=Новостные",News Network
+http://cdn.ottg.tv/9142/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9142.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Русская ночь 18+
+http://cdn.ottg.tv/8930/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8930.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Ню Арт HD 18+
+http://cdn.ottg.tv/8917/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8917.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Шалун HD 18+
+http://cdn.ottg.tv/7065/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/7065.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Playboy TV 18+
+http://cdn.ottg.tv/6534/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6534.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Candy HD 18+
+http://cdn.ottg.tv//video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Dorcel HD 18+
+http://cdn.ottg.tv/3467/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3467.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Redlight HD 18+
+http://cdn.ottg.tv/5504/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5504.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Hustler HD 18+
+http://cdn.ottg.tv/1971/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1971.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Brazzers TV 18+
+http://cdn.ottg.tv/1143/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1143.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Penthouse Black HD 18+
+http://cdn.ottg.tv/8559/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8559.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Penthouse HD2 18+
+http://cdn.ottg.tv//video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Pentouse Gold HD 18+
+http://cdn.ottg.tv/6447/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6447.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Private HD 18+
+http://cdn.ottg.tv/1265/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1265.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Vivid Red HD 18+
+http://cdn.ottg.tv/4639/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4639.png
+#EXTINF:-1 group-title="groupName=Для взрослых",PINKoTV 18+
+http://cdn.ottg.tv/3567/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3567.png
+#EXTINF:-1 group-title="groupName=Для взрослых",SEXTOSENSO 18+
+http://cdn.ottg.tv/9259/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9259.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Barely Legal TV 18+
+http://cdn.ottg.tv/5182/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5182.png
+#EXTINF:-1 group-title="groupName=Для взрослых",XMUVI 18+
+http://cdn.ottg.tv//video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/.png
+#EXTINF:-1 group-title="groupName=Для взрослых",PriveTV 18+
+http://cdn.ottg.tv/3797/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3797.png
+#EXTINF:-1 group-title="groupName=Для взрослых",PassionXXX 18+
+http://cdn.ottg.tv/6774/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6774.png
+#EXTINF:-1 group-title="groupName=Для взрослых",О-ля-ля 18+
+http://cdn.ottg.tv/8942/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8942.png
+#EXTINF:-1 group-title="groupName=Для взрослых",Babes TV HD 18+
+http://cdn.ottg.tv/4736/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/4736.png
+#EXTINF:-1 group-title="groupName=Германия",Sat.1 HD DE
+http://cdn.ottg.tv/9002/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9002.png
+#EXTINF:-1 group-title="groupName=Германия",ProSieben HD DE
+http://cdn.ottg.tv/6594/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6594.png
+#EXTINF:-1 group-title="groupName=Германия",VOX HD DE
+http://cdn.ottg.tv/1000/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1000.png
+#EXTINF:-1 group-title="groupName=Германия",RTL HD DE
+http://cdn.ottg.tv/3456/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/3456.png
+#EXTINF:-1 group-title="groupName=Германия",RTL 2 HD DE
+http://cdn.ottg.tv/5948/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/5948.png
+#EXTINF:-1 group-title="groupName=Германия",Kabel Eins HD DE
+http://cdn.ottg.tv/9447/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9447.png
+#EXTINF:-1 group-title="groupName=Германия",Sky Cinema Action HD DE
+http://cdn.ottg.tv/6304/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6304.png
+#EXTINF:-1 group-title="groupName=Германия",Sky Hits HD DE
+http://cdn.ottg.tv/8900/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/8900.png
+#EXTINF:-1 group-title="groupName=Германия",Sky Cinema HD DE
+http://cdn.ottg.tv/1381/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/1381.png
+#EXTINF:-1 group-title="groupName=Германия",Sky Sport Bundesliga 1 HD DE
+http://cdn.ottg.tv/6271/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/6271.png
+#EXTINF:-1 group-title="groupName=Германия",n-tv HD DE
+http://cdn.ottg.tv/9952/video.m3u8?username=XXX&password=YYY&token=ZZZ,logo=http://pl.ottg.tv:80/icon/9952.png
