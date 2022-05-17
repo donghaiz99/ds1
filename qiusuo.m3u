@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="6244" tvg-name="求索纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="综合娱乐",求索纪录 
-http://27.36.62.162:9090/live/QSJLHD_7000.m3u8 
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="综合娱乐",求索科学 
-http://27.36.62.162:9090/live/qiusuokexueHD_7000.m3u8 
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="综合娱乐",求索动物 
-http://27.36.62.162:9090/live/QSDWHD_7000.m3u8 
-#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="综合娱乐",求索生活 
-http://27.36.62.162:9090/live/QSDWHD_7000.m3u8
