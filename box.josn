@@ -20,7 +20,7 @@
 {"key":"csp_jihuang","name":"🚀剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🛰看视界〔SP〕","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/heroaku/TVboxo/raw/main/Jar/91c1.jar"},
 {"key":"csp_Dy555","name":"5️⃣555影视〔SP〕","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_cupfox","name": "🦊茶杯狐","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/qxlsyzf/tvbox/raw/branch/main/json/cupfox.json"},
 {"key":"快看","name":"🔭快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
