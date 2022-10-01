@@ -8,6 +8,7 @@
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",  //普通
 //"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
 
+
 // 直播
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 // 站源
