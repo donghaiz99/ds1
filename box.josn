@@ -3,7 +3,7 @@
 
 "spider":"https://raw.githubusercontent.com/donghaiz99/ds1/master/107.jar",
 "wallpaper":"http://壁纸.神器每日推送.tk",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3NodXl1YW4ubWlhb2dvbmd6aS5uZXQvc2h1eXVhbi8xNjY1MjEwOTM3LnR4dA=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
 
 
 "sites":[
