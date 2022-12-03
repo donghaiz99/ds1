@@ -274,14 +274,13 @@
       "filterable": 1
     },
     {
-      "key": "csp_SP360",
-      "name": " 🌈月光宝盒〔SP〕",
+      "key": "csp_Bttoo",
+      "name": "✌两个BT〔SP〕",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_Bttoo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92.jar"
+      "filterable": 1
     },
     {
       "key": "mtv_pc_追剧达人",
