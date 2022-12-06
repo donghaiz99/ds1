@@ -220,6 +220,7 @@
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;7d655c54d086110028be6074c85dce66"
