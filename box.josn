@@ -155,13 +155,13 @@
       "filterable": 1
     },
     {
-      "key": "t4public",
-      "name": "🔍豆瓣榜单2〔T4〕",
-      "type": 4,
-      "api": "http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy",
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "t4public",
