@@ -155,29 +155,14 @@
       "filterable": 1
     },
     {
-      "key": "快播",
-      "name": "快播",
-      "type": 1,
-      "api": "https://www.kuaibozy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "国产剧",
-        "日韩剧",
-        "港台剧",
-        "欧美剧",
-        "泰剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "综艺",
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;7d655c54d086110028be6074c85dce66"
+      "key":"js豆瓣",
+      "name":"🅱豆瓣热播┃神器妹推荐首页",
+      "type":3,
+      "api":"http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js",
+      "ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_drpy.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "t4public",
