@@ -155,14 +155,13 @@
       "filterable": 1
     },
     {
-      "key": "douban",
-      "name": "🔍豆瓣榜单1〔T4〕",
-      "type": 4,
-      "api": "http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js",
-      "ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_drpy.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "t4public",
