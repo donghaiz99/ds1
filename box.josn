@@ -155,14 +155,13 @@
       "filterable": 1
     },
     {
-     "key": "AList",
-      "name": "AListq",
+      "key": "csp_LiteApple",
+      "name": "🍎小 苹 果〔SP〕",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_LiteApple",
       "searchable": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;7d655c54d086110028be6074c85dce66"
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "t4public",
