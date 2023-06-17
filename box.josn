@@ -195,6 +195,22 @@
       "filterable": 1
     },
     {
+      "key": "成人点播",
+      "name": "成人点播",
+      "type": 3,
+      "api": "https://go.owen10086.repl.co/upload/cshi/点歌.js",
+      "ext":"https://go.owen10086.repl.co/upload/cshi/点歌.txt"
+     
+    },
+    {
+      "key": "点歌",
+      "name": "点歌",
+      "type": 3,
+      "api": "https://go.owen10086.repl.co/upload/TVBox/点歌/点歌.js",
+      "ext":"https://go.owen10086.repl.co/upload/TVBox/点歌/点歌.txt"
+     
+    },
+    {
       "key": "csp_LiteApple",
       "name": "🍎小 苹 果〔SP〕",
       "type": 3,
